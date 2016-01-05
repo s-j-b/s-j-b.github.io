@@ -3,9 +3,8 @@ body, div {
     padding: 0;
 }
 
-tr td {
+img {
     
-}
 
 body {
     /* Disable scrollbars and ensure that the body fills the window */
