@@ -6,6 +6,8 @@ body, div {
 img {
     
 
+}
+
 body {
     /* Disable scrollbars and ensure that the body fills the window */
     overflow: hidden;
