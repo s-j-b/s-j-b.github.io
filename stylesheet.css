@@ -1,11 +1,5 @@
-
 .header_space {
-    width: 25%;
-}
-
-body, div {
-    margin: 0;
-    padding: 0;
+    width: 16%;
 }
 
 body {
@@ -16,7 +10,7 @@ body {
 }
 
 #header {
-    height: 200px;
+    height: 150px;
     background: maroon;
 }
 
