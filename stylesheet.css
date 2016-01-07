@@ -2,12 +2,17 @@
     border: 2px dashed #303030;
 }
 
+html {
+    border: none;
+}
+
 body {
     background-color: #A0A0A0;                                                                                                                     
     color:black;                                                                                                                                   
     font-family: "Times New Roman";                                                                                                                
     font-size:20px;
     margin: 10px 10px 10px 30px;
+    border: none;
 }
 
 #header {
