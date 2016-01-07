@@ -1,29 +1,9 @@
-.header_space {
-    width: 16%;
-}
-
-body {
-    /* Disable scrollbars and ensure that the body fills the window */
-    overflow: hidden;
-    width: 100%;
-    height: 100%;
+* {
+    border: 3px dotted black;
 }
 
 #header {
+    width: 100%;
     height: 150px;
     background: maroon;
-}
-
-#header:after{
-    content: '';
-    width: 100%; /* Ensures there are at least 2 lines of text, so justification works */
-    display: inline-block;
-}
-
-#header div {
-    display: inline-block;
-}
-
-table {
-    width: 100%;
 }
