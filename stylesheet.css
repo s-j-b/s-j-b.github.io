@@ -7,3 +7,12 @@
     height: 150px;
     background: maroon;
 }
+
+#name {
+    text-align: center;
+    font-family: Verdana;
+}
+
+#profile {
+    align: middle;
+}
