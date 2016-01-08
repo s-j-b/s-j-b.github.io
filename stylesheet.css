@@ -81,10 +81,10 @@ body {
     width: 25%;
 }
 
-.navlink:link {
+/*.navlink:link {
     color: white;
     float: center;
-}
+}*/
 
 .navlink:visited {
     color: white;
