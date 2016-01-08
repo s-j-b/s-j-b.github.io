@@ -24,16 +24,21 @@ body {
 #profile {
     display: block;
     margin-top: 10px;
+    margin-bottom: 5px;
     margin-left: auto;
     margin-right: auto;
 }
 
 #name {
+    margin-top: 5px;
+    margin-bottom: 5px;
     text-align: center;
     font-family: Verdana;
 }
 
 #tag {
+    margin-top: 5px;
+    margin-botom: 5px;
     font-style: italic;
 }
 
