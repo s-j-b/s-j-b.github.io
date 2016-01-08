@@ -18,7 +18,7 @@ body {
 #header {
     width: 100%;
     height: 175px;
-    background: maroon;
+    background: #640520;
 }
 
 #profile {
@@ -42,5 +42,13 @@ body {
     text-align: center;
     font-style: italic;
 }
+
+#navbar {
+    width: 100%;
+    height: 50px;
+    background: #0B1D4A;
+    text-color: white;
+}
+    
 
 2px dashed #303030;
