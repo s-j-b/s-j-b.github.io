@@ -27,6 +27,10 @@ body {
     margin-right: auto;
 }
 
+#tag {
+    font-style: italic;
+}
+
 #name {
     text-align: center;
     font-family: Verdana;
