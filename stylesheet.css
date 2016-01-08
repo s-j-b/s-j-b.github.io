@@ -85,7 +85,7 @@ p {
 #navbar p {
     position: absolute;
     display: inline;
-    top: 10%;
+    top: 5%;
     font-size: 36px;
     text-align: center;
 }
@@ -96,7 +96,7 @@ p {
     vertical-align: middle;
     
     display: table-cell;
-    width: 15%;
+    width: 5%;
 }
 
 .navlink:link {
