@@ -82,16 +82,19 @@ body {
 }
 
 .navlink:link {
+    color: white;
     text-decoration: none;
 }
 
 .navlink:visited {
+    color: white;
     text-decoration: none;
 }
 
 .navlink:hover {
+    color: white;
     font-weight: bold;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 
