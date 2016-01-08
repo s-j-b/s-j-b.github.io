@@ -81,7 +81,8 @@ p {
 }
 
 #navbar p {
-    line-height: 100%;
+    position: absolute;
+    top: 50%;
 }
 
 .navlink {
