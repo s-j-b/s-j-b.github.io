@@ -70,16 +70,17 @@ p {
 
 #neck {
     width: 100%;
-    height: 500px;
+    height: 200px;
     background: #0B1D4A;
     display: block;
     margin: 0 auto 0 auto;
 }
 
 #navbar {
+    display: block;
     margin: 0 auto 0 auto;
     border: 1px dashed pink;
-    display: table;
+
     
     width: 50%;
     height: 50px;
