@@ -22,6 +22,11 @@ body {
     border: none;
 }
 
+p {
+    margin: 0;
+    padding: 0;
+}
+
 /*
 ################################################################################
 #################################### Header ####################################
@@ -52,7 +57,7 @@ body {
 
 #tag {
     margin-top: 5px;
-    margin-botom: 5px;
+    margin-botom: 0px;
     text-align: center;
     font-style: italic;
 }
