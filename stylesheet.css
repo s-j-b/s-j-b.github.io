@@ -83,10 +83,11 @@ body {
 
 .navlink:visited {
     color: white;
+    text-decoration: none;
 }
 
 .navlink:hover {
-    color: white;
+    color: brown;
     font-weight: bold;
 }
 
