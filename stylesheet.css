@@ -74,13 +74,14 @@ p {
 
 #navbar {
     margin: 0 auto 0 auto;
-    border: 1px dashed purple;
-
+    border: 1px dashed yellow;
+    display: block;
+    
     width: 50%;
     height: 50px;
     color: white;
     text-align: center;
-    display: table;
+
     position: absolute;
 }
 
