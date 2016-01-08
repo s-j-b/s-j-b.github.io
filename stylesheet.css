@@ -79,11 +79,11 @@ p {
 
     display: table;
 }
-    
-#navlinks {
-    display: table-cell;
-}
 
+#navbar p {
+    display: inline;
+    vertical-align: middle;
+}
 
 .navlink {
     margin-left:auto;
