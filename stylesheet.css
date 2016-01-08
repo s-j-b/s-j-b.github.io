@@ -73,7 +73,7 @@ p {
 }
 
 #navbar {
-    margin-left: auto;
+    margin: 0 auto;
     margin-right: auto;
     border: 1px dashed purple;
 
@@ -99,7 +99,7 @@ p {
     margin-right: auto;
     vertical-align: middle;
     
-    display: inline;
+    display: table-cell;
     width: 20%;
 }
 
