@@ -81,14 +81,17 @@ body {
     width: 25%;
 }
 
+.navlink:link {
+    text-decoration: none;
+}
+
 .navlink:visited {
-    color: white;
     text-decoration: none;
 }
 
 .navlink:hover {
-    color: brown;
     font-weight: bold;
+    text-decoration: none;
 }
 
 
