@@ -81,8 +81,7 @@ p {
 }
 
 #navbar p {
-    display: inline;
-    vertical-align: middle;
+    line-height: 100%;
 }
 
 .navlink {
