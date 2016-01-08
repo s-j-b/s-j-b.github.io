@@ -6,7 +6,7 @@
 
 
 * {
-    border: none;
+    border: 2px dashed #303030;
 }
 
 html {
@@ -96,4 +96,3 @@ body {
 }
 
 
-2px dashed #303030;
