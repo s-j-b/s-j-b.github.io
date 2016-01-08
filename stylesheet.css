@@ -79,7 +79,6 @@ p {
 #navbar {
     display: table;
     margin: 0 auto 0 auto;
-    border: 1px dashed pink;
     
     width: 60%;
     height: 50px;
