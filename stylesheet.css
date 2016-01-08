@@ -50,5 +50,16 @@ body {
     text-color: white;
 }
     
+#navlinks {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navlink {
+    text-color: white;
+}
+
+
 
 2px dashed #303030;
