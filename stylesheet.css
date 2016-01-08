@@ -74,7 +74,8 @@ p {
     color: white;
 
     display: inline-block;
-    padding-top: 100px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     margin-top: 0px;
     text-align: center;
 }
