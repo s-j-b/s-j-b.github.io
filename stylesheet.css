@@ -93,6 +93,7 @@ p {
     font-size: 36px;
     text-align: center;
     padding: 30px 30px 30px 30px;
+    border: 1px dashed yellow;
 }
 
 .navlink {
