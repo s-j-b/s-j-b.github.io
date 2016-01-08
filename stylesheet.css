@@ -100,7 +100,7 @@ p {
     vertical-align: middle;
     
     display: table-cell;
-    width: 15%;
+    width: 100%;
 }
 
 .navlink:link {
