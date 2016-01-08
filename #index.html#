@@ -12,11 +12,10 @@
         </div>
         <div id="navbar">
             <h6>
-                | <a href="xkcd.com">About</a>
-                | <a href="xkcd.com">Computer Science</a>
-                | <a href="xkcd.com">Comedy</a>
-                |
-            </h6>
+                Office: Hicks 219
+                | <a href="mailto:mzucker1@swarthmore.edu">mzucker1@swarthmore.edu</a>
+                | <a href="tel:+1-610-328-8636">(610) 328-8636</a>
+                              </h6>
         </div>
         <div id="torso">
             <p>Hey! I'm a Junior at Swarthmore College.</p>
