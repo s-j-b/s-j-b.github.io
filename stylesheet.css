@@ -80,7 +80,7 @@ p {
 }
     
 #navlinks {
-    vertical-align: middle;
+    position: relative;
 }
 
 
