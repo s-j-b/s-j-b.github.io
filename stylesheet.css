@@ -17,21 +17,23 @@ body {
 
 #header {
     width: 100%;
-    height: 200px;
+    height: 250px;
     background: maroon;
 }
 
 #profile {
     display: block;
+    margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
-}
-
-#tag {
-    font-style: italic;
 }
 
 #name {
     text-align: center;
     font-family: Verdana;
 }
+
+#tag {
+    font-style: italic;
+}
+
