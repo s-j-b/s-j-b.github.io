@@ -91,6 +91,7 @@ p {
     margin-right: auto;
     vertical-align: middle;
     
+    display: table-cell;
     width: 25%;
 }
 
