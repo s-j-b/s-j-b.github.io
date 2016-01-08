@@ -6,8 +6,8 @@
 
 * {
     /*border: 2px dashed #303030;*/
-    /*border: 1px solid green;*/
-    border: none;
+    border: 1px solid green;
+    /*border: none;*/
 }
 
 
@@ -75,8 +75,6 @@ p {
     color: white;
 
     display: inline-block;
-    /*padding: 0px 0px 0px 0px;*/
-    /*margin: 0px 0px 0px 0px;*/
     text-align: center;
 
     display: table;
