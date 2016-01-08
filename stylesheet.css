@@ -90,7 +90,7 @@ p {
 #navbar p {
     position: absolute;
     display: inline;
-    margin: 135px 0px 0px 0px;
+    margin: 0;
     font-size: 36px;
     text-align: center;
 }
