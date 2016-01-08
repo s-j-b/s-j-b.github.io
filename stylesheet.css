@@ -73,8 +73,7 @@ p {
 }
 
 #navbar {
-    margin: 0 auto;
-    margin-right: auto;
+    margin: 0 auto 0 auto;
     border: 1px dashed purple;
 
     width: 50%;
