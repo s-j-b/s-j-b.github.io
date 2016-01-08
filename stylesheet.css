@@ -90,10 +90,9 @@ p {
 #navbar p {
     position: absolute;
     display: inline;
-    margin: 130px 0px 0px 0px;
+    margin: 135px 0px 0px 0px;
     font-size: 36px;
     text-align: center;
-    margin: 0;
 }
 
 .navlink {
