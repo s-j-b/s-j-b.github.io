@@ -24,11 +24,6 @@ p {
     padding: 0;
 }
 
-
-h4 {
-    border: 3px solid green;
-}
-
 /*
 ################################################################################
 #################################### Header ####################################
@@ -84,6 +79,11 @@ h4 {
     text-align: center;
 }
     
+#navlinks {
+    vertical-align: middle;
+}
+
+
 .navlink {
     margin-left:auto;
     margin-right: auto;
