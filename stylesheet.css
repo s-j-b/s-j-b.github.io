@@ -70,12 +70,13 @@ p {
     width: 100%;
     height: 50px;
     background: #0B1D4A;
+    margin: 0 auto 0 auto;
 }
 
 #navbar {
     margin: 0 auto 0 auto;
-    border: 1px dashed yellow;
-    display: block;
+    border: 1px dashed purple;
+    display: table;
     
     width: 50%;
     height: 50px;
