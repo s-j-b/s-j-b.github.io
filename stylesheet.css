@@ -6,7 +6,7 @@
 
 * {
     /*border: 2px dashed #303030;*/
-    /*border: 1px solid green;*/
+    border: 1px solid green;
     border: none;
 }
 
@@ -92,8 +92,6 @@ p {
     margin: 0;
     font-size: 36px;
     text-align: center;
-    padding: 30px 30px 30px 30px;
-    border: 1px dashed yellow;
 }
 
 .navlink {
