@@ -73,7 +73,10 @@ p {
 }
 
 #navbar {
-    width: 30%;
+    margin-left: auto;
+    margin-rigth: auto;
+
+    width: 50%;
     height: 50px;
     color: white;
     display: inline-block;
