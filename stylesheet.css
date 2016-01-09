@@ -128,4 +128,7 @@ p {
     height: 50px;
     background: #0B1D4A;
     clear: both;
+
+    display: block;
+    margin: 0 auto 0 auto;
 }
