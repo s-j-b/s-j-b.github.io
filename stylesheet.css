@@ -125,12 +125,12 @@ p {
 
 #leg {
     width: 100%;
-    height: 150px;
+    height: 50px;
     background: #0B1D4A;
     clear: both;
     text-align: center;
 
-    padding-top: 0px;
+    padding-top: 2px;
 }
 
 #leg_tag {
