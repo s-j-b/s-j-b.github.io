@@ -139,7 +139,7 @@ p {
 figure {
     /*width: 25%;*/
     display: inline-block;
-    margin: 0 auto 0 auto;
+    /*margin: 0 auto 0 auto;*/
     padding: 20px 20px 20px 20px;
 }
 
