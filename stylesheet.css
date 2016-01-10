@@ -139,10 +139,10 @@ p {
 .leg_link {
     margin-left: 10px;
     margin-right: 10px;
+    display: inline-block;
 }
 
 figure {
-    /*width: 25%;*/
     display: inline-block;
     margin: 0 auto 0 auto;
 }
