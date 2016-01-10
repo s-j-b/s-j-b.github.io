@@ -129,6 +129,8 @@ p {
     background: #0B1D4A;
     clear: both;
     text-align: center;
+
+    padding-top: 30px;
 }
 
 #leg_tag {
