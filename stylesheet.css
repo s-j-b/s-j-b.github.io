@@ -155,7 +155,7 @@ figure {
 
 #footer {
     background: #640520;
-
+    position: absolute;
     padding: 10px 10px 10px 10px;
     
     width: 100%;
