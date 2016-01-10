@@ -151,3 +151,7 @@ p {
     height: 50px;
     background: #A0A0A0;
 }
+
+#footer_tag {
+    text-align: center;
+}
