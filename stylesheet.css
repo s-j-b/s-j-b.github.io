@@ -156,8 +156,9 @@ figure {
 #footer {
     background: #640520;
 
+    padding: 10px 10px 10px 10px;
+    
     width: 100%;
-
     min-height:50px;
     height:auto !important;
     height:50px;
