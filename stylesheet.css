@@ -126,7 +126,6 @@ p {
 
 #leg {
     width: 100%;
-    position: relative;
     height: 100px;
     background: #0B1D4A;
     clear: both;
@@ -156,7 +155,6 @@ figure {
 
 #footer {
     background: #640520;
-    position: absolute;
     padding: 10px 10px 10px 10px;
     
     width: 100%;
