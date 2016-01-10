@@ -170,6 +170,6 @@ figure {
 ##############################################################################*/
 
 #bottom {
-    position: absolute;
+    position: relative;
     bottom: 0;
 }
