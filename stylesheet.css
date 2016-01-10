@@ -125,13 +125,14 @@ p {
 
 #footer {
     width: 100%;
-    height: 50px;
+    height: 150px;
     background: #0B1D4A;
     clear: both;
 }
 
 #footertag {
     text-align: center;
+    color: white;
 }
 
 .footerlink {
