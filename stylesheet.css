@@ -131,9 +131,13 @@ p {
     text-align: center;
 }
 
+#leg p {
+    margin-top: 10px;
+}
+
 #leg_tag {
     text-align: center;
-    color: white;
+    color: green;
 }
 
 .leg_link {
