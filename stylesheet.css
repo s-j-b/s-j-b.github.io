@@ -126,7 +126,7 @@ p {
 
 #leg {
     width: 100%;
-    position: absolute;
+    position: relative;
     height: 100px;
     background: #0B1D4A;
     clear: both;
