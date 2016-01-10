@@ -128,6 +128,7 @@ p {
     height: 150px;
     background: #0B1D4A;
     clear: both;
+    text-align: center;
 }
 
 #leg_tag {
@@ -137,7 +138,6 @@ p {
 
 figure {
     width: 25%;
-    float: left;
     margin: 0 auto 0 auto;
     text-align: center;
     padding: 0;
