@@ -148,13 +148,10 @@ p {
 #footer {
     width: 100%;
     height: 50px;
-    background: #6405A0;
+    background: #640520;
 }
 
 #footer_tag {
-    position: absolute;
-    display: inline;
-
     text-align: center;
     vertical-align: middle;
 }
