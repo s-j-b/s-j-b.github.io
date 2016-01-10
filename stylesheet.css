@@ -138,8 +138,8 @@ p {
 
 figure {
     width: 25%;
+    display: inline;
     margin: 0 auto 0 auto;
-    text-align: center;
     padding: 0;
 }
 
