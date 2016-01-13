@@ -147,7 +147,7 @@ p {
     position:absolute;
     bottom:0;
     width:100%;
-    height:60px;
+    height:100px;
     text-align: center;    
 }
 
@@ -173,7 +173,6 @@ figure {
 ##############################################################################*/
 
 #torso {
-    #body {
-        padding:10px;
-        padding-bottom:60px;   /* Height of the footer */
-    }
+    padding:10px;
+    padding-bottom:60px;   /* Height of the footer */
+}
