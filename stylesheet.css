@@ -139,7 +139,9 @@ p {
 ##############################################################################*/
 
 #footer {
-    background-image: url("images/yew.jpg");    
+    background-image: url("/images/yew2.jpg");
+    background-size: cover;
+
 
     position:absolute;
     bottom:0;
