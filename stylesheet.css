@@ -148,7 +148,7 @@ p {
 
 #footer_tag {
     text-align: center;
-    color: white;
+    color: #86B1C4;;
     margin-top: 10px;
 }
 
@@ -159,17 +159,17 @@ p {
 }
 
 .footer_link:link {
-    color: white;
+    color: #86B1C4;;
     text-decoration: none;
 }
 
 .footer_link:visited {
-    color: white;
+    color: #86B1C4;;
     text-decoration: none;
 }
 
 .footer_link:hover {
-    color: white;
+    color: #86B1C4;;
     text-decoration: underline;
 }
 
