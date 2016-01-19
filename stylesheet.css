@@ -11,7 +11,8 @@
 html, body {
     background: #86B1C4;
     color: #1B5E4F;
-    font-family: "Times New Roman";                                                                                                                
+    font-family: Open Sans;
+    
     font-size:20px;
     margin: 0;
     padding: 0;
@@ -80,6 +81,9 @@ p {
     width: 100%;
     height: 50px;
     background: #1B6C91;
+
+    font-family: Open Sans;
+                      
     display: block;
     margin: 0 auto 0 auto;
 }
