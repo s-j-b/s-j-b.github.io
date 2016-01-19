@@ -150,6 +150,21 @@ p {
     display: inline-block;
 }
 
+.footer_link:link {
+    color: white;
+    text-decoration: none;
+}
+
+.footer_link:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.footer_link:hover {
+    color: white;
+    text-decoration: underline;
+}
+
 figure {
     display: inline-block;
     margin: 0 auto 0 auto;
