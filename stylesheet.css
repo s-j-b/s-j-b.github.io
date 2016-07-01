@@ -194,4 +194,5 @@ figure {
 #torso {
     padding:10px;
     padding-bottom:100px;   /* Height of the footer */
+    text-align: center;
 }
