@@ -11,7 +11,8 @@
 html, body {
     background: #FFFFFF;
     color: #000045;
-    font-family: "Open Sans";
+    font-family: "Georgia", "Times New Roman", serif;
+    font-color: black;
     
     font-size:20px;
     margin: 0;
