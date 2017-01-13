@@ -28,9 +28,9 @@ p {
     padding: 0;
 }
 
-#top {
-    background-image: url("/backgrounds/water.jpg");
-}
+/*#top {
+//    background-image: url("/backgrounds/water.jpg");
+//}*/
 
 ul {
     list-style-position: inside;
