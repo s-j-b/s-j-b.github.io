@@ -23,13 +23,13 @@ html, body {
     height: 100%;
 }
 
-p {
+/*p {
     margin: 0;
     padding: 0;
-}
+}*/
 
 #top {
-    background-image: url("/backgrounds/water.jpg");
+    background-image: url("backgrounds/water.jpg");
 }
 
 ul {
@@ -148,7 +148,7 @@ ul {
 ##############################################################################*/
 
 #footer {
-    background-image: url("/backgrounds/water2.jpg");
+    background-image: url("backgrounds/water2.jpg");
     background-size: cover;
 
     /*position:fixed;*/
@@ -181,7 +181,7 @@ ul {
     text-decoration: none;
 }
 
-.footer_link:hover 
+.footer_link:hover {
     color: #FFFFFF;
     text-decoration: underline;
 }
