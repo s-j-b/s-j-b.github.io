@@ -1,0 +1,199 @@
+/*##############################################################################
+################################### General ####################################
+##############################################################################*/
+
+* {
+    border: none;
+    border: 1px solid yellow;
+    border: none;
+}
+
+
+html, body {
+    background: #BBBBBB;
+    color: #000045;
+    font-family: "Georgia", "Times New Roman", serif;
+    
+    font-size:20px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+#top {
+    background-image: url("backgrounds/water.jpg");
+}
+
+ul {
+    list-style-position: inside;
+    display: inline-block;
+    text-align: left;
+}
+
+
+
+/*##############################################################################
+#################################### Header ####################################
+##############################################################################*/
+
+#header {
+    width: 100%;
+    height: 180px;
+    background-size: cover;
+
+    margin-bottom: 0px;
+
+    display: inline-block;
+    color: white;
+}
+
+#profile {
+    display: block;
+    padding-top: 10px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#name {
+    color: #000000;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-color: white;
+}
+
+#tag {
+    color: #000000;
+    
+    margin-top: 5px;
+    margin-botom: 0px;
+    text-align: center;
+    font-style: italic;
+}
+
+/*
+################################################################################
+################################ Navigation Bar ################################
+################################################################################
+*/
+
+#neck {
+    width: 100%;
+    height: 50px;
+    /*background: #4B3663;*/
+
+    font-family: Open Sans;
+    font-size: 15px;
+    
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+#navbar {
+    display: table;
+    margin: 0 auto 0 auto;
+    
+    width: 60%;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
+
+#navbar p {
+    position: absolute;
+    display: inline;
+    margin: 0;
+    font-size: 36px;
+    text-align: center;
+}
+
+.navlink {
+    margin-left:auto;
+    margin-right: auto;
+    vertical-align: middle;
+    
+    padding: 0px 10px 0px 10px;
+    display: table-cell;
+    width: 20%;
+}
+
+.navlink:link {
+    color: white;
+    text-decoration: none;
+}
+
+.navlink:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.navlink:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+
+/*##############################################################################
+#################################### Footer ####################################
+##############################################################################*/
+
+#footer {
+    background-image: url("backgrounds/water2.jpg");
+    background-size: cover;
+
+    /*position:fixed;*/
+    position:relative;
+    bottom:0;
+    width:100%;
+    height:125px;
+    text-align: center;    
+}
+
+#footer_tag {
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+
+.footer_link {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.footer_link:link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer_link:visited {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer_link:hover {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+figure {
+    display: inline-block;
+    margin: 0 auto 0 auto;
+}
+
+/*##############################################################################
+#################################### Torso #####################################
+##############################################################################*/
+
+#torso {
+    padding:10px;
+    padding-bottom:100px;   /* Height of the footer */
+    text-align: center;
+}
