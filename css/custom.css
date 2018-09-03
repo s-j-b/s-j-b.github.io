@@ -5,8 +5,8 @@
 * {
     /*
 
-      border: 1px solid yellow;
-   */
+    border: 1px solid yellow;
+     */
 }
 html, body {
     height: 100%;
@@ -87,16 +87,28 @@ html, body {
 .content {
     background-color: #808080;
     margin: 18px;
-    text-align: center;        
 }
 
 .blurb {
     margin: 0 auto;
     width: 60%;
     display: block;
+    text-align: center;
 }
 
+.mapbox {
+    margin: 0 auto;
+    width: 600px;
+    height: 300px;
+}
 /*////////////////////////////////////////////////////////////////////////////////*/
+
+@media screen and (max-width: 700px) {
+    .mapbox {
+        width: 90%;
+    }
+}
+
 
 @media screen and (max-width: 500px) {
     .videoWrapper {
@@ -104,6 +116,7 @@ html, body {
 	    padding-bottom: 56.25%; /* 16:9 */
 	    padding-top: 25px;
 	    height: 0;
+        text-align: center;
     }
 
     .videoWrapper iframe {
@@ -124,7 +137,10 @@ html, body {
     }
     .content {
         margin-left: 0px;
-        margin-right: 0px;        
+        margin-right: 0px;
+    }
+    .mapbox {
+        margin: 0 auto;
     }
 }
 
