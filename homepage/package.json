@@ -1,0 +1,36 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "My Personal Homepage",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack -d --watch",
+    "build": "webpack",
+    "serve": "serve ./public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-j-b/s-j-b.github.io.git"
+  },
+  "author": "simon_j_bloch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-j-b/s-j-b.github.io/issues"
+  },
+  "homepage": "https://github.com/s-j-b/s-j-b.github.io#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.1",
+    "react": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.24.1",
+    "react-dom": "^16.2.0",
+    "serve": "^6.5.3",
+    "webpack": "^2.1.0-beta.22",
+    "webpack-cli": "^2.0.11"
+  }
+}

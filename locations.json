@@ -3,8 +3,8 @@
   "features": [{
     "type": "Feature",
     "geometry": {
-      "type": "Point",
-      "coordinates": [-77.03238901390978, 38.913188059745586]
+      "type": "Point",      
+      "coordinates": [-74.0319469, 40.7111875]
     },
     "properties": {
       "title": "Mapbox DC",

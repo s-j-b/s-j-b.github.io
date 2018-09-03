@@ -1,0 +1,26 @@
+{
+  "name": "sjb_site",
+  "version": "1.0.0",
+  "description": "Simon Bloch's personal website",
+  "private": true,
+  "scripts": {
+    "test": "./sjb_site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-j-b/s-j-b.github.io.git"
+  },
+  "author": "Simon J. Bloch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-j-b/s-j-b.github.io/issues"
+  },
+  "homepage": "https://github.com/s-j-b/s-j-b.github.io#readme",
+  "devDependencies": {
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.9"
+  },
+  "dependencies": {
+    "mapbox-gl": "^0.48.0"
+  }
+}
