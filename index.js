@@ -6,16 +6,17 @@ var map = new mapboxgl.Map({
   zoom: 10.75 // starting zoom
 });
 
+
+
 map.on('load', function () {
-
-
   ////////////////////////////////////////////////////////////////////////////////
   map.addLayer({
     "id": "points",
     "type": "symbol",
     "source": {
       "type": "geojson",
-      "data": "http://s-j-b.github.io/locations.geojson"
+      "data": "http://192.168.1.10:8080/locations.geojson"
+      //      "data": "http://http://s-j-b.github.io/locations.geojson"
     },
     "layout": {
       "icon-image": "{icon}-15",
@@ -25,21 +26,6 @@ map.on('load', function () {
       "text-anchor": "top"
     }
   });
-  map.addLayer({
-    "id": "points",
-    "type": "symbol",
-    "source": {
-      "type": "geojson",
-      "data": "http://s-j-b.github.io/stations.geojson"
-    },
-    "layout": {
-      "icon-image": "{icon}-15",
-      "text-field": "{title}",
-      "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
-      "text-offset": [0, 0.6],
-      "text-anchor": "top"
-    }
-  });  
   ////////////////////////////////////////////////////////////////////////////////
   ////////////////////////////////////////////////////////////////////////////////
 });
