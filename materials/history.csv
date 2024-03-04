@@ -1,0 +1,119 @@
+start,end,type,label,color,Presidency,Wikipedia Entry,party
+1789-04-30,1797-03-04,p,George Washington,,1,http://en.wikipedia.org/wiki/George_Washington,Independent
+1797-03-04,1801-03-04,p,John Adams,,2,http://en.wikipedia.org/wiki/John_Adams,Federalist
+1801-03-04,1809-03-04,p,Thomas Jefferson,,3,http://en.wikipedia.org/wiki/Thomas_Jefferson,Democratic-Republican
+1809-03-04,1817-03-04,p,James Madison,,4,http://en.wikipedia.org/wiki/James_Madison,Democratic-Republican
+1817-03-04,1825-03-04,p,James Monroe,,5,http://en.wikipedia.org/wiki/James_Monroe,Democratic-Republican
+1825-03-04,1829-03-04,p,John Quincy Adams,,6,http://en.wikipedia.org/wiki/John_Quincy_Adams,Democratic-Republican
+1829-03-04,1837-03-04,p,Andrew Jackson,,7,http://en.wikipedia.org/wiki/Andrew_Jackson,Democratic
+1837-03-04,1841-03-04,p,Martin Van Buren,,8,http://en.wikipedia.org/wiki/Martin_Van_Buren,Democratic
+1841-03-04,1841-04-04,p,William Henry Harrison,,9,http://en.wikipedia.org/wiki/William_Henry_Harrison,Whig
+1841-04-04,1845-03-04,p,John Tyler,,10,http://en.wikipedia.org/wiki/John_Tyler,Whig
+1845-03-04,1849-03-04,p,James K. Polk,,11,http://en.wikipedia.org/wiki/James_K._Polk,Democratic
+1849-03-04,1850-07-09,p,Zachary Taylor,,12,http://en.wikipedia.org/wiki/Zachary_Taylor,Whig
+1850-07-09,1853-03-04,p,Millard Fillmore,,13,http://en.wikipedia.org/wiki/Millard_Fillmore,Whig
+1853-03-04,1857-03-04,p,Franklin Pierce,,14,http://en.wikipedia.org/wiki/Franklin_Pierce,Democratic
+1857-03-04,1861-03-04,p,James Buchanan,,15,http://en.wikipedia.org/wiki/James_Buchanan,Democratic
+1861-03-04,1865-04-15,p,Abraham Lincoln,,16,http://en.wikipedia.org/wiki/Abraham_Lincoln,Republican
+1865-04-15,1869-03-04,p,Andrew Johnson,,17,http://en.wikipedia.org/wiki/Andrew_Johnson,Democratic
+1869-03-04,1877-03-04,p,Ulysses S. Grant,,18,http://en.wikipedia.org/wiki/Ulysses_S._Grant,Republican
+1877-03-04,1881-03-04,p,Rutherford B. Hayes,,19,http://en.wikipedia.org/wiki/Rutherford_B._Hayes,Republican
+1881-03-04,1881-09-19,p,James A. Garfield,,20,http://en.wikipedia.org/wiki/James_A._Garfield,Republican
+1881-09-19,1885-03-04,p,Chester A. Arthur,,21,http://en.wikipedia.org/wiki/Chester_A._Arthur,Republican
+1885-03-04,1889-03-04,p,Grover Cleveland,,22,http://en.wikipedia.org/wiki/Grover_Cleveland,Democratic
+1889-03-04,1893-03-04,p,Benjamin Harrison,,23,http://en.wikipedia.org/wiki/Benjamin_Harrison,Republican
+1893-03-04,1897-03-04,p,Grover Cleveland,,24,http://en.wikipedia.org/wiki/Grover_Cleveland,Democratic
+1897-03-04,1901-09-14,p,William McKinley,,25,http://en.wikipedia.org/wiki/William_McKinley,Republican
+1901-09-14,1909-03-04,p,Theodore Roosevelt,,26,http://en.wikipedia.org/wiki/Theodore_Roosevelt,Republican
+1909-03-04,1913-03-04,p,William Howard Taft,,27,http://en.wikipedia.org/wiki/William_Howard_Taft,Republican
+1913-03-04,1921-03-04,p,Woodrow Wilson,,28,http://en.wikipedia.org/wiki/Woodrow_Wilson,Democratic
+1921-03-04,1923-08-02,p,Warren G. Harding,,29,http://en.wikipedia.org/wiki/Warren_G._Harding,Republican
+1923-08-02,1929-03-04,p,Calvin Coolidge,,30,http://en.wikipedia.org/wiki/Calvin_Coolidge,Republican
+1929-03-04,1933-03-04,p,Herbert Hoover,,31,http://en.wikipedia.org/wiki/Herbert_Hoover,Republican
+1933-03-04,1945-04-12,p,Franklin D. Roosevelt,,32,http://en.wikipedia.org/wiki/Franklin_D._Roosevelt,Democratic
+1945-04-12,1953-01-20,p,Harry S. Truman,,33,http://en.wikipedia.org/wiki/Harry_S._Truman,Democratic
+1953-01-20,1961-01-20,p,Dwight D. Eisenhower,,34,http://en.wikipedia.org/wiki/Dwight_D._Eisenhower,Republican
+1961-01-20,1963-11-22,p,John F. Kennedy,,35,http://en.wikipedia.org/wiki/John_F._Kennedy,Democratic
+1963-11-22,1969-01-20,p,Lyndon B. Johnson,,36,http://en.wikipedia.org/wiki/Lyndon_B._Johnson,Democratic
+1969-01-20,1974-08-09,p,Richard Nixon,,37,http://en.wikipedia.org/wiki/Richard_Nixon,Republican
+1974-08-09,1977-01-20,p,Gerald Ford,,38,http://en.wikipedia.org/wiki/Gerald_Ford,Republican
+1977-01-20,1981-01-20,p,Jimmy Carter,,39,http://en.wikipedia.org/wiki/Jimmy_Carter,Democratic
+1981-01-20,1989-01-20,p,Ronald Reagan,,40,http://en.wikipedia.org/wiki/Ronald_Reagan,Republican
+1989-01-20,1993-01-20,p,George H. W. Bush,,41,http://en.wikipedia.org/wiki/George_H._W._Bush,Republican
+1993-01-20,2001-01-20,p,Bill Clinton,,42,http://en.wikipedia.org/wiki/Bill_Clinton,Democratic
+2001-01-20,2009-01-20,p,George W. Bush,,43,http://en.wikipedia.org/wiki/George_W._Bush,Republican
+2009-01-20,2017-01-20,p,Barack Obama,,44,http://en.wikipedia.org/wiki/Barack_Obama,Democratic
+2017-01-20,2021-01-20,p,Donald J. Trump,,45,https://en.wikipedia.org/wiki/Donald_Trump,Republican
+2021-01-20,2025-01-20,p,Joe Biden,,46,https://en.wikipedia.org/wiki/Joe_Biden,Democratic
+1959-08-17,,j,"Kind of Blue",,t,t
+1898-04-01,1898-08-01,w,Spanish–American War,,t,t
+1999-03-01,1999-06-19,w,Kosovo War,,t,t
+1989-12-01,1990-01-01,w,Invasion of Panama,,t,t
+2001-01-01,2021-01-01,w,Afghan War,,t,t
+1955-11-01,1973-04-01,w,Vietnam War,,t,t
+1899-01-01,1913-01-01,w,Moro Rebellion,,t,t
+2004-01-01,2017-01-01,w,War in North-West Pakistan,,t,t
+1962-10-16,1962-10-28,w,Cuban Missile Crisis,,t,t
+1785-01-01,1795-01-01,w,Northwest Indian War,,t,t
+2003-03-01,2011-01-01,w,Iraq War,,t,t
+1775-04-01,1783-09-01,w,American Revolutionary War,,t,t
+1835-12-01,1842-08-01,w,Second Seminole War,,t,t
+2014-06-01,2021-01-01,w,War on ISIL,,t,t
+1801-05-01,1805-06-01,w,First Barbary War,,t,t
+1861-04-01,1865-04-01,w,American Civil War,,t,t
+1983-10-25,1983-10-29,w,Invasion of Grenada,,t,t
+1941-12-01,1945-08-01,w,World War II,,t,t
+1950-06-01,1953-07-01,w,Korean War,,t,t
+1961-04-17,1961-04-20,w,Bay of Pigs Invasion,,t,t
+1812-06-01,1814-12-01,w,War of 1812,,t,t
+1866-07-01,1868-04-01,w,Red Cloud's War,,t,t
+1846-04-01,1848-02-01,w,Mexican–American War,,t,t
+1917-04-01,1918-11-01,w,World War I,,t,t
+1918-09-01,1920-04-15,w,Russian Civil War,,t,t
+1876-02-01,1877-05-01,w,Great Sioux War of 1876,,t,t
+2011-03-01,2011-10-16,w,Libyan Civil War (2011),,t,t
+1990-08-01,1991-02-17,w,Persian Gulf War,,t,t
+1794-05-01,1794-10-01,w,Whiskey Rebellion,,t,t
+1732-02-22,1799-12-14,l,George Washington
+1738-06-04,1820-29-01,l,George III,,
+1754-08-23,1793-21-01,l,Louis XVI,,
+1809-02-12,1865-04-15,l,Abraham Lincoln,,
+1869-10-02,1948-01-30,l,Mahatma Gandhi,,
+1926-05-26,1991-09-28,l,Miles Davis,,
+1929-01-15,1968-04-04,l,Martin Luther King Jr.
+1953-09-25,2040-01-01,l,Amy Scarola,,
+1956-01-23,2040-01-01,l,Mark Bloch,,
+1995-02-12,2040-01-01,l,Simon Bloch,,
+1948,1994-04-27,h,Apartheid,afr
+1368,1644,h,Ming Dynasty,chi
+1636,1912,h,Qing Dynasty,chi
+1921-07-23,2040-01-01,h,Communist China,chi
+2021-07-23,2040-01-01,h,Ian Grant,chi
+0962-05-02,1806-11-06,h,Holy Roman Empire,eur
+1492,1976,h,Spanish Empire,eur
+1789-05-05,1799-11-09,h,French Revolution,eur
+1804,1867,h,Austrian Empire,eur
+1848,1871,h,Italian Unification,eur
+1867,1918,h,Austria Hungary,eur
+1871,1918,h,German Empire,eur
+1949,1990,h,East Germany,eur
+1949,1990,h,West Germany,eur
+1555,1857,h,Mughal Empire,ind
+1858,1947,h,British Raj,ind
+1603,1868,h,Edo Period,jap
+1868-11-23,1912-07-30,h,Meiji Era,jap
+1912-07-30,1926-12-25,h,Taisho Era,jap
+1926-12-25,1989-01-07,h,Showa Era,jap
+1945-08-28,1952-04-28,h,Japanese Occupation,jap
+1989-01-08,2019-04-30,h,Heisei Era,jap
+1299,1922-11-01,h,Ottoman Empire,mena
+1547,1721-10-22,h,Tsardom of Russia,rus
+1721,1917-09-14,h,Russian Empire,rus
+1917,1922,h,Russian SFSR,rus
+1922,1991,h,USSR,rus
+1991,2040-01-01,h,Russian Federation,rus
+1776-07-04,2040-01-01,h,United States,usa
+1952-04-28,,d,Treaty of San Francisco,jap
+1871-01-18,,d,German Unification,eur
+1918-11-04,,d,Italian Unification (Completes),eur
+1789-07-14,,d,The Storming of the Bastille,eur

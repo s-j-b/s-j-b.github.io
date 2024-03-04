@@ -1,0 +1,124 @@
+id,start,end,band,region,type,label,code,attributes,,link
+1776-07-04,2025-01-01,0,usa,empire,USA,,,
+1603-01-01,1867-01-01,2,jap,empire,Edo,,,
+1921-07-23,2040-01-01,2,chi,empire,Communist China,chi,4,,
+0962-05-02,1806-11-06,1,ger,empire,Holy Roman Empire,eur,6,,
+1492,1976,1,spa,empire,Spanish Empire,eur,7,,
+1789-05-05,1799-11-09,fra,event,French Revolution,eur,8,,
+1804,1867,h,event,Austrian Empire,eur,9,,
+1848,1871,ita,event,Italian Unification,eur,10,,
+1867,1918,h,event,Austria Hungary,eur,11,,
+1871,1918,h,event,German Empire,eur,12,,
+1949,1990,h,event,East Germany,eur,13,,
+1949,1990,h,event,West Germany,eur,14,,
+1555,1857,h,event,Mughal Empire,ind,15,,
+1858,1947,h,event,British Raj,ind,16,,
+1603,1868,jap,event,Edo Period,jap,17,,
+1868-11-23,1912-07-30,jap,event,Meiji Era,jap,18,,
+1912-07-30,1926-12-25,jap,event,Taisho Era,jap,19,,
+1926-12-25,1989-01-07,jap,event,Showa Era,jap,20,,
+1945-08-28,1952-04-28,jap,event,Japanese Occupation,jap,21,,
+1989-01-08,2019-04-30,jap,event,Heisei Era,jap,22,,
+1299,1922-11-01,jap,event,Ottoman Empire,mena,23,,
+1547,1721-10-22,jap,event,Tsardom of Russia,rus,24,,
+1721,1917-09-14,h,event,Russian Empire,rus,25,,
+1917,1922,h,event,Russian SFSR,rus,26,,
+1922,1991,h,event,USSR,rus,27,,
+1991,2040-01-01,h,event,Russian Federation,rus,28,,
+1492-10-12,,usa,event,Columbus @ Bahamas,e1492,,,
+1971-09-09,,usa,event,Attica Prison Massacre
+1526-01-01,1865-01-31,usa,event,Slavery in US (Santo Domingo -> 13th amendment),eusssd,,,
+1914-07-28,1918-11-11,usa,event,WWI,ewwi,,,
+1939-09-01,1945-05-08,usa,event,WWII,ewwii,,,
+1922-12-28,1991-12-08,usa,era,USSR,eussr,,,
+1794-07-27,1795-11-02,usa,event,Thermidorian reaction,ethermidor,,,
+1792-09-21,1804-05-18,usa,event,French First Republic,effr,,,
+1799-11-10,1804-05-18,usa,event,French Consulate,efrenchconsulate,,,
+1789-04-30,1797-03-04,usa,event,George Washington,p1,Independent,,http://en.wikipedia.org/wiki/George_Washington
+1797-03-04,1801-03-04,usa,event,John Adams,p2,Federalist,,http://en.wikipedia.org/wiki/John_Adams
+1801-03-04,1809-03-04,usa,event,Thomas Jefferson,p3,Democratic-Republican,,http://en.wikipedia.org/wiki/Thomas_Jefferson
+1809-03-04,1817-03-04,usa,event,James Madison,p4,Democratic-Republican,,http://en.wikipedia.org/wiki/James_Madison
+1817-03-04,1825-03-04,usa,event,James Monroe,p5,Democratic-Republican,,http://en.wikipedia.org/wiki/James_Monroe
+1825-03-04,1829-03-04,usa,event,John Quincy Adams,p6,Democratic-Republican,,http://en.wikipedia.org/wiki/John_Quincy_Adams
+1829-03-04,1837-03-04,usa,event,Andrew Jackson,p7,Democratic,,http://en.wikipedia.org/wiki/Andrew_Jackson
+1837-03-04,1841-03-04,usa,event,Martin Van Buren,p8,Democratic,,http://en.wikipedia.org/wiki/Martin_Van_Buren
+1841-03-04,1841-04-04,usa,event,William Henry Harrison,p9,Whig,,http://en.wikipedia.org/wiki/William_Henry_Harrison
+1841-04-04,1845-03-04,usa,event,John Tyler,p10,Whig,,http://en.wikipedia.org/wiki/John_Tyler
+1845-03-04,1849-03-04,usa,event,James K. Polk,p11,Democratic,,http://en.wikipedia.org/wiki/James_K._Polk
+1849-03-04,1850-07-09,usa,event,Zachary Taylor,p12,Whig,,http://en.wikipedia.org/wiki/Zachary_Taylor
+1850-07-09,1853-03-04,usa,event,Millard Fillmore,p13,Whig,,http://en.wikipedia.org/wiki/Millard_Fillmore
+1853-03-04,1857-03-04,usa,event,Franklin Pierce,p14,Democratic,,http://en.wikipedia.org/wiki/Franklin_Pierce
+1857-03-04,1861-03-04,usa,event,James Buchanan,p15,Democratic,,http://en.wikipedia.org/wiki/James_Buchanan
+1861-03-04,1865-04-15,usa,event,Abraham Lincoln,p16,Republican,,http://en.wikipedia.org/wiki/Abraham_Lincoln
+1865-04-15,1869-03-04,usa,event,Andrew Johnson,p17,Democratic,,http://en.wikipedia.org/wiki/Andrew_Johnson
+1869-03-04,1877-03-04,usa,event,Ulysses S. Grant,p18,Republican,,http://en.wikipedia.org/wiki/Ulysses_S._Grant
+1877-03-04,1881-03-04,usa,event,Rutherford B. Hayes,p19,Republican,,http://en.wikipedia.org/wiki/Rutherford_B._Hayes
+1881-03-04,1881-09-19,usa,event,James A. Garfield,p20,Republican,,http://en.wikipedia.org/wiki/James_A._Garfield
+1881-09-19,1885-03-04,usa,event,Chester A. Arthur,p21,Republican,,http://en.wikipedia.org/wiki/Chester_A._Arthur
+1885-03-04,1889-03-04,usa,event,Grover Cleveland,p22,Democratic,,http://en.wikipedia.org/wiki/Grover_Cleveland
+1889-03-04,1893-03-04,usa,event,Benjamin Harrison,p23,Republican,,http://en.wikipedia.org/wiki/Benjamin_Harrison
+1893-03-04,1897-03-04,usa,event,Grover Cleveland,p24,Democratic,,http://en.wikipedia.org/wiki/Grover_Cleveland
+1897-03-04,1901-09-14,usa,event,William McKinley,p25,Republican,,http://en.wikipedia.org/wiki/William_McKinley
+1901-09-14,1909-03-04,usa,event,Theodore Roosevelt,p26,Republican,,http://en.wikipedia.org/wiki/Theodore_Roosevelt
+1909-03-04,1913-03-04,usa,event,William Howard Taft,p27,Republican,,http://en.wikipedia.org/wiki/William_Howard_Taft
+1913-03-04,1921-03-04,usa,event,Woodrow Wilson,p28,Democratic,,http://en.wikipedia.org/wiki/Woodrow_Wilson
+1921-03-04,1923-08-02,usa,event,Warren G. Harding,p29,Republican,,http://en.wikipedia.org/wiki/Warren_G._Harding
+1923-08-02,1929-03-04,usa,event,Calvin Coolidge,p30,Republican,,http://en.wikipedia.org/wiki/Calvin_Coolidge
+1929-03-04,1933-03-04,usa,event,Herbert Hoover,p31,Republican,,http://en.wikipedia.org/wiki/Herbert_Hoover
+1933-03-04,1945-04-12,usa,event,Franklin D. Roosevelt,p32,Democratic,,http://en.wikipedia.org/wiki/Franklin_D._Roosevelt
+1945-04-12,1953-01-20,usa,event,Harry S. Truman,p33,Democratic,,http://en.wikipedia.org/wiki/Harry_S._Truman
+1953-01-20,1961-01-20,usa,event,Dwight D. Eisenhower,p34,Republican,,http://en.wikipedia.org/wiki/Dwight_D._Eisenhower
+1961-01-20,1963-11-22,usa,event,John F. Kennedy,p35,Democratic,,http://en.wikipedia.org/wiki/John_F._Kennedy
+1963-11-22,1969-01-20,usa,event,Lyndon B. Johnson,p36,Democratic,,http://en.wikipedia.org/wiki/Lyndon_B._Johnson
+1969-01-20,1974-08-09,usa,event,Richard Nixon,p37,Republican,,http://en.wikipedia.org/wiki/Richard_Nixon
+1974-08-09,1977-01-20,usa,event,Gerald Ford,p38,Republican,,http://en.wikipedia.org/wiki/Gerald_Ford
+1977-01-20,1981-01-20,usa,event,Jimmy Carter,p39,Democratic,,http://en.wikipedia.org/wiki/Jimmy_Carter
+1981-01-20,1989-01-20,usa,event,Ronald Reagan,p40,Republican,,http://en.wikipedia.org/wiki/Ronald_Reagan
+1989-01-20,1993-01-20,usa,event,George H. W. Bush,p41,Republican,,http://en.wikipedia.org/wiki/George_H._W._Bush
+1993-01-20,2001-01-20,usa,event,Bill Clinton,p42,Democratic,,http://en.wikipedia.org/wiki/Bill_Clinton
+2001-01-20,2009-01-20,usa,event,George W. Bush,p43,Republican,,http://en.wikipedia.org/wiki/George_W._Bush
+2009-01-20,2017-01-20,usa,event,Barack Obama,p44,Democratic,,http://en.wikipedia.org/wiki/Barack_Obama
+2017-01-20,2021-01-20,usa,event,Donald J. Trump,p45,Republican,,https://en.wikipedia.org/wiki/Donald_Trump
+2021-01-20,2025-01-20,usa,event,Joe Biden,p46,Democratic,,https://en.wikipedia.org/wiki/Joe_Biden
+1732-02-22,1799-12-14,usa,event,George Washington’s Life,l1,,,
+1738-06-04,1820-29-01,usa,event,George III,l2,,,
+1754-08-23,1793-21-01,usa,event,Louis XVI,l3,,,
+1809-02-12,1865-04-15,usa,event,Abraham Lincoln’s Life,l4,,,
+1869-10-02,1948-01-30,usa,event,Mahatma Gandhi,l5,,,
+1926-05-26,1991-09-28,usa,event,Miles Davis,l6,,,
+1929-01-15,1968-04-04,usa,event,Martin Luther King Jr.,l7,,,
+1953-09-25,2040-01-01,usa,event,Amy Scarola,l8,,,
+1956-01-23,2040-01-01,usa,event,Mark Bloch,l9,,,
+1995-02-12,2040-01-01,usa,event,Simon Bloch,l10,,,
+1948,1994-04-27,afr,event,Apartheid,afr,1,,
+1368,1644,saf,event,Ming Dynasty,chi,2,,
+1636,1912,chi,event,Qing Dynasty,chi,3,,
+1921-07-23,2040-01-01,chi,event,Communist China,chi,4,,
+0962-05-02,1806-11-06,ger,event,Holy Roman Empire,eur,6,,
+1492,1976,spa,event,Spanish Empire,eur,7,,
+1789-05-05,1799-11-09,fra,event,French Revolution,eur,8,,
+1804,1867,h,event,Austrian Empire,eur,9,,
+1848,1871,ita,event,Italian Unification,eur,10,,
+1867,1918,h,event,Austria Hungary,eur,11,,
+1871,1918,h,event,German Empire,eur,12,,
+1949,1990,h,event,East Germany,eur,13,,
+1949,1990,h,event,West Germany,eur,14,,
+1555,1857,h,event,Mughal Empire,ind,15,,
+1858,1947,h,event,British Raj,ind,16,,
+1603,1868,jap,event,Edo Period,jap,17,,
+1868-11-23,1912-07-30,jap,event,Meiji Era,jap,18,,
+1912-07-30,1926-12-25,jap,event,Taisho Era,jap,19,,
+1926-12-25,1989-01-07,jap,event,Showa Era,jap,20,,
+1945-08-28,1952-04-28,jap,event,Japanese Occupation,jap,21,,
+1989-01-08,2019-04-30,jap,event,Heisei Era,jap,22,,
+1299,1922-11-01,jap,event,Ottoman Empire,mena,23,,
+1547,1721-10-22,jap,event,Tsardom of Russia,rus,24,,
+1721,1917-09-14,h,event,Russian Empire,rus,25,,
+1917,1922,h,event,Russian SFSR,rus,26,,
+1922,1991,h,event,USSR,rus,27,,
+1991,2040-01-01,h,event,Russian Federation,rus,28,,
+1776-07-04,2040-01-01,h,event,United States,usa,29,,
+1952-04-28,,d,event,Treaty of San Francisco,jap,30,,
+1871-01-18,,d,event,German Unification,eur,31,,
+1918-11-04,,d,event,Italian Unification (Completes),eur,32,,
+1789-07-14,,d,event,The Storming of the Bastille,eur,33,,

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="external-icon"
+   viewBox="0 0 816.24488 400"
+   focusable="false"
+   style="display:block"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="YouTube_full-color_icon_(2017).svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   width="816.24487"
+   height="400"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.527675"
+     inkscape:cx="8.7007367"
+     inkscape:cy="-0.95787927"
+     inkscape:window-width="1512"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3" />
+  <svg
+     viewBox="0 0 28.57 20"
+     preserveAspectRatio="xMidYMid"
+     version="1.1"
+     id="svg2"
+     width="100%"
+     height="100%">
+    <g
+       id="g2">
+      <path
+         id="path4"
+         d="m 14.285156,0 c 0,0 -8.9349214,2.9107165e-4 -11.1621091,0.59765625 C 1.8930481,0.92691292 0.92691292,1.8930381 0.59765625,3.1230469 2.9107165e-4,5.3502246 0,10 0,10 0,10 2.9107165e-4,14.649755 0.59765625,16.876953 0.92691292,18.106952 1.8930481,19.073144 3.1230469,19.402344 5.3502346,19.999743 14.285156,20 14.285156,20 c 0,0 8.935012,-2.57e-4 11.16211,-0.597656 1.229998,-0.3292 2.196191,-1.295392 2.52539,-2.525391 C 28.570056,14.649755 28.570312,10 28.570312,10 c 0,0 -0.0027,-4.6497754 -0.597656,-6.8769531 C 27.643457,1.8930381 26.677264,0.92691292 25.447266,0.59765625 23.220168,2.9107165e-4 14.285156,0 14.285156,0 Z M 11.425781,5.7148438 18.847656,10 11.425781,14.285156 Z"
+         style="fill:#ffffff" />
+    </g>
+  </svg>
+</svg>
